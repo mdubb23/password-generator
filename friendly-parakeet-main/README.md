@@ -6,3 +6,4 @@
 *Javascript
 
 ## Website
+https://mdubb23.github.io/password-generator/
